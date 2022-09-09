@@ -1,6 +1,5 @@
 // DOM Loaded
 document.addEventListener('DOMContentLoaded', () => {
-
     // Coletando span
     const result = document.querySelector("#result")
     // Adicionando evento ao botão
